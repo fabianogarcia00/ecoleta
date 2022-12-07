@@ -37,7 +37,7 @@ This project was developed with the following technologies:
 
 ## 💻 Project
 
-Ecoleta is a marketplace that helps people find recycle collection points efficiently.
+Ecoleta is a marketplace that helps people find recycling collection sites efficiently.
 
 ## 🔖 Layout
 
